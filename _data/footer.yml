@@ -1,4 +1,7 @@
+type: medium
 contact: 
-   address: | 
-     <!---Site maintained by the United States Government Publishing Office on behalf of the Legislative branch Bulk Data Task Force and civil society organizations.--->
-     [Github Repository](https://github.com/usgpo/innovation/)
+  contact_links:
+    - text: GitHub Repository
+      href: https://github.com/usgpo/innovation/
+      external: true
+      type: github

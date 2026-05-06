@@ -7,7 +7,7 @@ plugins:
 - jekyll-remote-theme 
 
 
-remote_theme: 18f/uswds-jekyll@38f6d3ceac7a04fa6d53ebcbaace81b909ea5801
+remote_theme: 18f/uswds-jekyll@2b2dcdf0aca440e8f7e417930783489fb46b6d3f  # v4.0.0
 
 defaults:
   -
